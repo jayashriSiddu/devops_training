@@ -1,0 +1,4 @@
+The first sesion in GIT.
+modifying the file.
+added thi sline in local
+added this line in master
